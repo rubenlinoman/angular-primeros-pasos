@@ -2,5 +2,9 @@
   "Nombre": "Rubén",
   "Apellidos": "Lino Mandado",
   "Dirección": "Rúa Andalucía 1, 3ºE",
-  "Provincia": "Pontevedra"
+  "CP": "36940",
+  "Provincia": "Pontevedra",
+  "CCAA": "Galicia",
+  "País": "España"
 }
+
