@@ -34,5 +34,6 @@ export class HeroComponent {
   resetFormularioPrueba():void {
     this.name = 'ironman';
     this.age = 45;
+    // probando probando
   }
 }
