@@ -32,7 +32,7 @@ export class HeroComponent {
   }
 
   pruebaMetodo():void {
-    this.name = 'ironman';
-    this.age = 45;
+    this.name = 'Prueba';
+    this.age = 0;
   }
 }
